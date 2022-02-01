@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/wolfie_og" target="blank"><img src="https://img.shields.io/twitter/follow/wolfie_og?logo=twitter&style=for-the-badge" alt="wolfie_og" /></a> </p>
 
-- Main Poject **Apollo API**
+- Main Poject **Blaze API**
 
 - Side Project **5TEVEN API**
 
