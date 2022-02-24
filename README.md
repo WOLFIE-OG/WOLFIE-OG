@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/wolfie_og" target="blank"><img src="https://img.shields.io/twitter/follow/wolfie_og?logo=twitter&style=for-the-badge" alt="wolfie_og" /></a> </p>
 
-- Main Poject **Blaze API**
 
-- Side Project **5TEVEN API**
+
+- Projects **5TEVEN API**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
