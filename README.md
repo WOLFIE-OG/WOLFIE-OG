@@ -11,8 +11,6 @@
 
 - Side Project **5TEVEN API**
 
-- Fun tool for vrchat **BomboClartWare**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/wolfie_og" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wolfie_og" height="30" width="40" /></a>
