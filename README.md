@@ -9,7 +9,7 @@
 
 
 
-- Projects **5TEVEN API**
+- Projects **SkidBot Discord Self Bot (Private For Now)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
