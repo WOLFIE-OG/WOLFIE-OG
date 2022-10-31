@@ -1,5 +1,5 @@
 <h1 align="center">Me WOLFIE_OG</h1>
-<h3 align="center">17 year old British bloke who makes stuff that's scuffed</h3>
+<h3 align="center">18 year old British bloke who makes stuff that's scuffed</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfie-og&label=Profile%20views&color=0e75b6&style=flat" alt="wolfie-og" /> </p>
 
