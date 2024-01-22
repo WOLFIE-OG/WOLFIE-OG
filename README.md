@@ -62,7 +62,7 @@
 ### 
 
 <div align="center">
- ![WOLFIE-OG's Stats](https://github-readme-stats.vercel.app/api?username=WOLFIE-OG&theme=dark&show_icons=true&hide_border=false&count_private=true)
+  ![WOLFIE-OG's Stats](https://github-readme-stats.vercel.app/api?username=WOLFIE-OG&theme=dark&show_icons=true&hide_border=false&count_private=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WOLFIE-OG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=WOLFIE-OG&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
