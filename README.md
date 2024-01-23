@@ -3,7 +3,7 @@
    <ul>
       <li>🎉 <strong>Age:</strong> 19 - Embracing the journey of youth and technology exploration!</li>
       <li>🇬🇧 <strong>Nationality:</strong> British - Proudly representing the UK in the vast tech landscape.</li>
-      <li>🐾 <strong>Furry Enthusiast:</strong> Bringing creativity and fun into both coding and life.</li>
+      <li>🐾 <strong>Furry Enthusiast:</strong> Passionate about the vibrant and whimsical world of furry fandom, where creativity and joy come to life through anthropomorphic characters and artistic expressions! 🌈🐾</li>
       <li>💻 <strong>Occupation:</strong> Freelance Software Developer - Passionate about turning ideas into functional and efficient software solutions.</li>
       <li>
          🚀 <strong>Expertise:</strong>
