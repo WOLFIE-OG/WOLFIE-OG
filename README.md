@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <h1>💫 About Me:</h1>
 <ul>
   <li>🎉 <strong>Age:</strong> 19 - Embracing the journey of youth and technology exploration!</li>
