@@ -9,6 +9,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=WOLFIE-OG&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WOLFIE-OG&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WOLFIE-OG&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# SSSSSSnake!:
 <img src="https://raw.githubusercontent.com/WOLFIE-OG/WOLFIE-OG/output/snake.svg" alt="Snake animation" />
 
 ## 🏆 GitHub Trophies
@@ -18,4 +20,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=WOLFIE-OG&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=WOLFIE-OG&icon=7&color=0)](https://visitcount.itsvg.in)
+[![Profile Visits](https://komarev.com/ghpvc/?username=wolfie-og&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/))
