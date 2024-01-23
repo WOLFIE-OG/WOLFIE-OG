@@ -15,7 +15,7 @@
 
 # Profile Visits:
 
-[![Profile Visits](https://komarev.com/ghpvc/?username=wolfie-og&label=Profile%20views&color=0e75b6&style=flat)]
+[![Profile Visits](https://komarev.com/ghpvc/?username=wolfie-og&label=Profile%20views&color=0e75b6&style=for-the-badge)]
 
 # 💻 Tech Stack:
 
