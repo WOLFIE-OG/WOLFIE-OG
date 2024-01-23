@@ -1,5 +1,5 @@
 <div>
-   <h1>💫 About Me:</h1>
+   <h1 align="center">💫 About Me:</h1>
    <ul>
       <li>🎉 <strong>Age:</strong> 19 - Embracing the journey of youth and technology exploration!</li>
       <li>🇬🇧 <strong>Nationality:</strong> British - Proudly representing the UK in the vast tech landscape.</li>
@@ -15,7 +15,7 @@
       <li>📚 <strong>Current Status:</strong> Student <a href="https://42london.com" target=_blank>@42London</a> - On a continuous journey to enhance coding skills and explore the ever-evolving world of technology.</li>
    </ul>
 </div>
-<div>
+<div align="center">
    <h2>💻 Profile Visits:</h2>
    <a href="https://github.com/WOLFIE-OG">
    <img src="https://komarev.com/ghpvc/?username=wolfie-og&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Visits" />
