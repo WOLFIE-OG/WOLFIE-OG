@@ -11,7 +11,7 @@
       <li><strong>Database Management</strong> - Proficient in organizing and managing data effectively.</li>
     </ul>
   </li>
-  <li>📚 <strong>Current Status:</strong> Student @42London - On a continuous journey to enhance coding skills and explore the ever-evolving world of technology.</li>
+  <li>📚 <strong>Current Status:</strong> Student <a href="https://42london.com" target=_blank>@42London</a> - On a continuous journey to enhance coding skills and explore the ever-evolving world of technology.</li>
 </ul>
 </div>
 
@@ -33,11 +33,11 @@
     <img src="https://komarev.com/ghpvc/?username=wolfie-og&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Visits" />
   </a>
 
-  <h2>Overview:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=WOLFIE-OG&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Overview" />
-
   <h2>Repository Overview (Snake Animation):</h2>
   <img src="https://raw.githubusercontent.com/WOLFIE-OG/WOLFIE-OG/output/snake.svg" alt="Snake Animation" />
+
+  <h2>Overview:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=WOLFIE-OG&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Overview" />
 
   <h2>Contribution Streak:</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=WOLFIE-OG&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=04B0EB&ring=1767EB&currStreakLabel=2AD6EB" alt="GitHub Streak" />
