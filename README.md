@@ -43,10 +43,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=WOLFIE-OG&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=04B0EB&ring=1767EB&currStreakLabel=2AD6EB" alt="GitHub Streak" />
 
   <h2>Top Languages:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOLFIE-OG&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOLFIE-OG&theme=dark&include_all_commits=true&count_private=true" alt="Top Languages" />
 
   <h2>🔝 Top Contributed Repo:</h2>
-  <img src="https://github-contributor-stats.vercel.app/api?username=WOLFIE-OG&limit=5&theme=dark" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=WOLFIE-OG&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
   <h2>🏆 GitHub Trophies:</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=WOLFIE-OG&theme=darkhub" alt="GitHub Trophies" />
