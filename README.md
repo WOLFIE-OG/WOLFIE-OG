@@ -18,7 +18,7 @@
 
 <div align="center">
   <h1>🎧 What am I listening to currently?:</h1>
-  <img src="https://spotify.wolfieog.xyz/?theme=dark&scan=true&spin=false&rainbow=false" alt="Widget with the current Spotify song" />
+  <img src="https://spotify.wolfieog.xyz/?theme=dark&scan=true&rainbow=false" alt="Widget with the current Spotify song" />
 </div>
 
 # 💻 Tech Stack:
@@ -39,7 +39,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WOLFIE-OG&theme=dark&hide_border=false" alt="Contribution Streak" />
 
   <h2>Top Languages:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOLFIE-OG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOLFIE-OG&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" />
 
   <h2>Profile Visits:</h2>
   <a href="https://github.com/WOLFIE-OG">
