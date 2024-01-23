@@ -1,17 +1,25 @@
-# 💫 About Me:
+<div align="center">
+<h1>💫 About Me:</h1>
+<ul>
+  <li>🎉 <strong>Age:</strong> 19 - Embracing the journey of youth and technology exploration!</li>
+  <li>🇬🇧 <strong>Nationality:</strong> British - Proudly representing the UK in the vast tech landscape.</li>
+  <li>🐾 <strong>Furry Enthusiast:</strong> Bringing creativity and fun into both coding and life.</li>
+  <li>💻 <strong>Occupation:</strong> Freelance Software Developer - Passionate about turning ideas into functional and efficient software solutions.</li>
+  <li>🚀 <strong>Expertise:</strong>
+    <ul>
+      <li>**REST API Developer** - Crafting robust and efficient API solutions.</li>
+      <li>**Database Management** - Proficient in organizing and managing data effectively.</li>
+    </ul>
+  </li>
+  <li>📚 <strong>Current Status:</strong> Student @42London - On a continuous journey to enhance coding skills and explore the ever-evolving world of technology.</li>
+</ul>
+</div>
 
-- 🎉 **Age:** 19 - Embracing the journey of youth and technology exploration!
-- 🇬🇧 **Nationality:** British - Proudly representing the UK in the vast tech landscape.
-- 🐾 **Furry Enthusiast** - Bringing creativity and fun into both coding and life.
-- 💻 **Occupation:** Freelance Software Developer - Passionate about turning ideas into functional and efficient software solutions.
-- 🚀 **Expertise:**
-  - **REST API Developer** - Crafting robust and efficient API solutions.
-  - **Database Management** - Proficient in organizing and managing data effectively.
-- 📚 **Current Status:** Student @42London - On a continuous journey to enhance coding skills and explore the ever-evolving world of technology.
 
-
-# 🎧 What am I listening to currently?:
-![Spotify Widget](https://spotify.wolfieog.xyz/?theme=dark&scan=true&spin=false&rainbow=false)
+<div align="center">
+  <h1>🎧 What am I listening to currently?:</h1>
+  <img src="https://spotify.wolfieog.xyz/?theme=dark&scan=true&spin=false&rainbow=false" alt="Widget with the current Spotify song" />
+</div>
 
 # 💻 Tech Stack:
 
