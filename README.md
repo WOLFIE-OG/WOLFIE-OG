@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/WOLFIE-OG/WOLFIE-OG/output/snake.svg" alt="Snake Animation" />
 
   <h2>Contribution Streak:</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=WOLFIE-OG&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&fire=04B0EB&ring=1767EB&currStreakLabel=2AD6EB" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WOLFIE-OG&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=04B0EB&ring=1767EB&currStreakLabel=2AD6EB" alt="GitHub Streak" />
 
   <h2>Top Languages:</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOLFIE-OG&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" />
