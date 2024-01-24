@@ -37,16 +37,16 @@
    <img src="https://raw.githubusercontent.com/WOLFIE-OG/WOLFIE-OG/output/snake.svg" alt="Snake Animation" />
    <h2>📊 Stats:</h2>
    <a href="https://github.com/WOLFIE-OG">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WOLFIE-OG&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Overview" />
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WOLFIE-OG&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Overview " />
    </a>
    <a href="https://github.com/WOLFIE-OG">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOLFIE-OG&theme=dark&layout=donut&langs_count=8&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" />
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WOLFIE-OG&theme=dark&layout=donut&langs_count=8&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages " />
    </a>
    <a href="https://github.com/WOLFIE-OG">
-   <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=WOLFIE-OG&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+   <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=WOLFIE-OG&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo " />
    </a>
    <a href="https://github.com/WOLFIE-OG">
-   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=WOLFIE-OG&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=04B0EB&ring=1767EB&currStreakLabel=2AD6EB" alt="GitHub Streak" />
+   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=WOLFIE-OG&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=04B0EB&ring=1767EB&currStreakLabel=2AD6EB" alt="GitHub Streak " />
    </a>
    <h2>🏆 GitHub Trophies:</h2>
    <img src="https://github-profile-trophy.vercel.app/?username=WOLFIE-OG&theme=darkhub" alt="GitHub Trophies" />
